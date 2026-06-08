@@ -1,0 +1,11 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/tests/login_wemax88.spec.js
+/tests/Learn.spec.js
+/tests/example.spec.js
