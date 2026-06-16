@@ -9,3 +9,6 @@ node_modules/
 /tests/login_wemax88.spec.js
 /tests/Learn.spec.js
 /tests/example.spec.js
+/tests/genWithgemini.spec.js
+/tests/loginSwaglab.spec.js
+.env
